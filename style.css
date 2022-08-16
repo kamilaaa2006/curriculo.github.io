@@ -1,0 +1,51 @@
+.container{
+    margin: 0 auto;
+    width: 900px;
+}
+
+.dadospessoais{
+    text-align: center;
+}
+
+.dadosnome{
+    font-family: 'dosis', sans-serif;
+    font-style: italic;
+    font font-weight: bold;
+}
+
+.dadoscarreira{
+    margin-top:  -25px;
+    font-style: italic;
+    font-family: 'dosis', sans-serif;
+    font-size: 50px;
+}
+
+.fperfil{
+    display: block;
+    margin:auto;
+    border-radius:10px 40px 10px 40px ;
+    box-shadow: 10px 10px 5px rgb(100,100,100);
+}
+
+.barratitulo{
+    background-color: rgba(134,134,134,0.863);
+    text-align: center;
+}
+
+.containersocial{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+ 
+.social-links{
+    text-decoration: none;
+}
+ .social-icons{
+    width: 30px;
+    height: auto;
+ }
+
+ .github{
+    margin: 0  19px 0  19px;
+ }
